@@ -1,3 +1,2 @@
 numpy==1.23.5
 opencv-python==4.6.0.66
-colorama==0.4.6
